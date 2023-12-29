@@ -80,7 +80,7 @@ customItem:
       value: rewards4
   item5:
     display: '&f&l< &c返回 &f&l>'
-    material: BARRIER
+    material: REDSTONE_BLOCK
     data: 0
     model: 0
     lore:

@@ -1,6 +1,6 @@
 title: '&c&l公会商店'
 size: 54
-sound: ENTITY_PLAYER_LEVELUP
+sound: LEVEL_UP
 placeholder:
   Day: '&c每日限购: &a%left%/%max%'
   Week: '&c每周限购: &a%left%/%max%'
@@ -32,7 +32,7 @@ customItem:
     slot: [50]
   back:
     display: '&f&l< &c返回 &f&l>'
-    material: BARRIER
+    material: REDSTONE_BLOCK
     data: 0
     model: 0
     lore:

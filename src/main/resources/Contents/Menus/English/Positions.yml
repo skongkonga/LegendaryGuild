@@ -1,6 +1,6 @@
 title: '&6&lGuild Positions'
 size: 27
-sound: ENTITY_PLAYER_LEVELUP
+sound: LEVEL_UP
 customItem:
   owner:
     display: '&9Position &f- %display%'
@@ -21,7 +21,7 @@ customItem:
       value: 会长
   zl:
     display: '&9Position &f- %display%'
-    material: GOLDEN_HELMET
+    material: GOLD_HELMET
     data: 0
     model: 0
     lore:
@@ -41,7 +41,7 @@ customItem:
       value: 长老
   jycy:
     display: '&9Position &f- %display%'
-    material: GOLDEN_HELMET
+    material: GOLD_HELMET
     data: 0
     model: 0
     lore:
@@ -61,7 +61,7 @@ customItem:
       value: 精英成员
   back:
     display: '&cBack'
-    material: BARRIER
+    material: REDSTONE_BLOCK
     data: 0
     model: 0
     lore:
@@ -71,7 +71,7 @@ customItem:
     slot: [22]
   deco1:
     display: '&f'
-    material: RED_STAINED_GLASS_PANE
+    material: STAINED_GLASS_PANE
     data: 0
     model: 0
     lore:

@@ -1,6 +1,6 @@
 title: '&2公会申请'
 size: 45
-sound: ENTITY_PLAYER_LEVELUP
+sound: LEVEL_UP
 #申请玩家的位置
 layout: [11-15,20-24]
 playeritem:
@@ -55,7 +55,7 @@ customItem:
     slot: [41]
   item3:
     display: '&f&l< &b返回 &f&l>'
-    material: BARRIER
+    material: REDSTONE_BLOCK
     data: 0
     model: 0
     lore:

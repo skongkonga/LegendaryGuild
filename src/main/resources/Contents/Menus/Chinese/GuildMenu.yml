@@ -4,7 +4,7 @@ size: 54
 customItem:
   infomation:
     display: '&3公会信息'
-    material: OAK_SIGN
+    material: SIGN_POST
     data: 0
     model: 0
     lore:
@@ -39,7 +39,7 @@ customItem:
     slot: [12]
   home:
     display: '&b公会驻地'
-    material: ENDER_EYE
+    material: EYE_OF_ENDER
     data: 0
     model: 0
     lore:
@@ -52,7 +52,7 @@ customItem:
     slot: [13]
   tree:
     display: '&b公会神树'
-    material: OAK_SAPLING
+    material: SAPLING
     data: 0
     model: 0
     lore:
@@ -86,7 +86,7 @@ customItem:
     slot: [15]
   activity:
     display: '&a公会活跃度奖励'
-    material: EXPERIENCE_BOTTLE
+    material: EXP_BOTTLE
     data: 0
     model: 0
     lore:
@@ -178,7 +178,7 @@ customItem:
     slot: [39]
   members:
     display: '&2公会成员'
-    material: PLAYER_HEAD
+    material: SKULL
     data: 0
     model: 0
     lore:
@@ -193,7 +193,7 @@ customItem:
     slot: [40]
   appplications:
     display: '&e入会申请'
-    material: WRITABLE_BOOK
+    material: BOOK_AND_QUILL
     data: 0
     model: 0
     lore:
@@ -220,7 +220,7 @@ customItem:
     slot: [42]
   pvp:
     display: '&c公会保护模式'
-    material: SHIELD
+    material: DIAMOND_CHESTPLATE
     data: 0
     model: 0
     lore:
@@ -248,7 +248,7 @@ customItem:
     slot: [48]
   deco1:
     display: '&f '
-    material: RED_STAINED_GLASS_PANE
+    material: STAINED_GLASS_PANE
     data: 0
     model: 0
     lore:
@@ -258,7 +258,7 @@ customItem:
     slot: [0,8,9,17,18,26,27,35,36,44,45,53]
   deco2:
     display: '&f '
-    material: BLACK_STAINED_GLASS_PANE
+    material: STAINED_GLASS_PANE
     data: 0
     model: 0
     lore:

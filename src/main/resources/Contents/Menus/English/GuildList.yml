@@ -37,7 +37,7 @@ guild:
     - '%intro%'
     - ' '
     - '&b&l➡ &7Click to join the guild'
-sound: ENTITY_PLAYER_LEVELUP
+sound: LEVEL_UP
 customItem:
   item2:
     display: '&f&l< &bNext page &f&l>'

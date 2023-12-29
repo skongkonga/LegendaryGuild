@@ -37,7 +37,7 @@ guild:
     - ' '
     - '&b&l➡ &7点击申请加入公会'
 #打开该界面的音效
-sound: ENTITY_PLAYER_LEVELUP
+sound: LEVEL_UP
 #自定义部分
 customItem:
   #id必须唯一性 只能在当前页面中出现一次

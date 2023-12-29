@@ -1,6 +1,6 @@
 title: '&5公会图标'
 size: 54
-sound: ENTITY_PLAYER_LEVELUP
+sound: LEVEL_UP
 #每个图标的位置
 layout: [11,12,13,14,15,20,21,22,23,24]
 #文本变量
@@ -52,7 +52,7 @@ customItem:
     slot: [41]
   item5:
     display: '&f&l< &c返回 &f&l>'
-    material: BARRIER
+    material: REDSTONE_BLOCK
     data: 0
     model: 0
     lore:

@@ -5,7 +5,7 @@ size: 36
 layout: '[10-16,19-25]'
 sell_confirm:
   display: '&bSubmit these tributes'
-  material: END_CRYSTAL
+  material: ENDER_PORTAL
   data: 0
   model: 0
   lore:
@@ -19,7 +19,7 @@ sell_confirm:
 customItem:
   i1:
     display: '&f '
-    material: GLASS_PANE
+    material: THIN_GLASS
     data: 0
     model: 0
     lore:
@@ -29,7 +29,7 @@ customItem:
       type: none
   item5:
     display: '&f&l< &cBack &f&l>'
-    material: BARRIER
+    material: REDSTONE_BLOCK
     data: 0
     model: 0
     lore:

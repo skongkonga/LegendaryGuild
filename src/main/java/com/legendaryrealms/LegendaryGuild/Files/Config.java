@@ -150,9 +150,9 @@ public class Config extends FileProvider{
 
         //公会驻地设置
         HOME_WAIT = getValue("settings.guild.home.teleport_wait",5);
-        HOME_SOUND_SECOND = getSound(getValue("settings.guild.home.sound.second","block_note_block_banjo")).orElse(null);
-        HOME_SOUND_TELEPORT = getSound(getValue("settings.guild.home.sound.teleport","ENTITY_ENDERMAN_TELEPORT")).orElse(null);
-        HOME_SOUND_CANCEL = getSound(getValue("settings.guild.home.sound.cancel","entity_villager_trade")).orElse(null);
+        HOME_SOUND_SECOND = getSound(getValue("settings.guild.home.sound.second","note_piano")).orElse(null);
+        HOME_SOUND_TELEPORT = getSound(getValue("settings.guild.home.sound.teleport","enderman_teleport")).orElse(null);
+        HOME_SOUND_CANCEL = getSound(getValue("settings.guild.home.sound.cancel","villager_no")).orElse(null);
         HOME_BLACK_WORLD = getValue("settings.guild.home.black_world",new ArrayList<>());
         HOME_BLACK_SERVER = getValue("settings.guild.home.black_server",new ArrayList<>());
 
